@@ -11,7 +11,7 @@ public class AreaofSquare {
 
           float area;
           area = side*side;
-          System.out.println("area of square : " +area);
+          System.out.println("area of square: " +area);
     }
     
 }
