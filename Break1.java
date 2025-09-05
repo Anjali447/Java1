@@ -18,3 +18,4 @@ public class Break1 {
         } while (true);
     }
 }
+
