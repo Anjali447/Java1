@@ -8,3 +8,4 @@ public class Do_While {
         } while(counter <= 10);
     }
 }
+
