@@ -10,11 +10,3 @@ public class AreaofCircle {
         System.out.println(area);
      }    
 }
-
-
-
-
-
-
-
-
